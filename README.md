@@ -1,4 +1,6 @@
 # Prediz_preco_cenoura
+
+![Imagem de Cenoura](https://github.com/jairobernardesjunior/Prediz_preco_cenoura/blob/main/cenoura.png)
  
 ## Verifica se as condições climáticas altera o preço da cenoura e prediz o seu preço
 
