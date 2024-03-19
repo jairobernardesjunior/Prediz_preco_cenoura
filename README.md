@@ -1,4 +1,6 @@
 # Prediz_preco_cenoura
+
+![Imagem de Cenoura](URL_da_Imagem)
  
 ## Verifica se as condições climáticas altera o preço da cenoura e prediz o seu preço
 
