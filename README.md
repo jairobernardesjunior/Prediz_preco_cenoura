@@ -14,7 +14,7 @@ https://g1.globo.com/economia/agronegocios/noticia/2024/03/12/por-que-os-precos-
 
 https://www.hfbrasil.org.br/br/hortifruti-cepea-efeitos-do-el-nio-no-desenvolvimento-das-hortalicas-no-verao-2023-24.aspx 
 
-- Neste estudo, através de dados do clima, o objetivo é confirmar se as condições climáticas estão prejudicando
+- Neste projeto, através de dados do clima, o objetivo é confirmar se as condições climáticas estão prejudicando
 a safra de cenouras e qual seria o preço desse legume.
 
 - Escolheu-se os dados da região de São Gotardo - MG que é responsável pela maior parte da produção de cenouras
